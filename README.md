@@ -80,6 +80,3 @@ digit-recognition-cnn/
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
 
----
-
-Let me know if you need further customization or additional sections!
